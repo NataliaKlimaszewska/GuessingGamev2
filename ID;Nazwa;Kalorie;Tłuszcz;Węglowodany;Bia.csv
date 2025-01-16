@@ -1,0 +1,50 @@
+ID;Nazwa;Kalorie;Tłuszcz;Węglowodany;Białko;Ścieżka do obrazu
+1;Chicken Bucket;1100;65;50;70;images/chicken_bucket.jpg
+2;Original Recipe Chicken;380;20;20;30;images/original_chicken.jpg
+3;Zinger Burger;560;26;44;27;images/zinger_burger.jpg
+4;Hot Wings;500;30;14;26;images/hot_wings.jpg
+5;Mashed Potatoes;120;5;16;3;images/mashed_potatoes.jpg
+6;Coleslaw;150;8;15;2;images/coleslaw.jpg
+7;Popcorn Chicken;400;24;25;18;images/popcorn_chicken.jpg
+8;Chicken Wrap;460;22;38;24;images/chicken_wrap.jpg
+9;KFC Fries (Small);290;14;37;4;images/kfc_fries_small.jpg
+10;KFC Fries (Large);400;18;56;6;images/kfc_fries_large.jpg
+11;Spicy Chicken Wrap;530;26;45;28;images/spicy_chicken_wrap.jpg
+12;Caesar Salad;320;22;12;20;images/caesar_salad.jpg
+13;Garden Salad;150;8;14;5;images/garden_salad.jpg
+14;KFC Rice Bowl;650;30;80;25;images/kfc_rice_bowl.jpg
+15;Chocolate Milkshake;510;18;79;10;images/chocolate_milkshake.jpg
+16;Strawberry Milkshake;490;17;77;9;images/strawberry_milkshake.jpg
+17;Vanilla Milkshake;480;16;76;9;images/vanilla_milkshake.jpg
+18;KFC Popcorn Chicken Combo;840;40;80;45;images/popcorn_chicken_combo.jpg
+19;Double Down;1380;80;42;55;images/double_down.jpg
+20;Famous Bowl;710;30;80;18;images/famous_bowl.jpg
+21;KFC Chicken Tenders (3 pieces);600;30;40;30;images/chicken_tenders_3.jpg
+22;KFC Chicken Tenders (5 pieces);1000;50;60;50;images/chicken_tenders_5.jpg
+23;KFC Gravy;120;8;15;1;images/kfc_gravy.jpg
+24;KFC Biscuits;150;6;22;3;images/kfc_biscuits.jpg
+25;KFC Mac & Cheese;290;15;25;10;images/kfc_mac_cheese.jpg
+26;KFC Potato Wedges;320;17;34;4;images/kfc_potato_wedges.jpg
+27;KFC Twister;570;22;59;28;images/kfc_twister.jpg
+28;KFC Chicken Bucket (12 pieces);2200;130;120;140;images/chicken_bucket_12.jpg
+29;KFC Hot Wings (5 pieces);600;40;25;30;images/hot_wings_5.jpg
+30;KFC Chicken Sandwich;600;28;55;29;images/kfc_chicken_sandwich.jpg
+31;KFC Chicken Drumsticks (2 pieces);400;18;25;20;images/chicken_drumsticks_2.jpg
+32;KFC Chicken Breast;380;18;25;35;images/chicken_breast.jpg
+33;KFC Chicken Thigh;450;25;22;32;images/chicken_thigh.jpg
+34;KFC Chicken Wing;200;10;10;17;images/chicken_wing.jpg
+35;KFC Shrimp (6 pieces);600;20;30;40;images/kfc_shrimp_6.jpg
+36;KFC Shrimp (12 pieces);1200;40;60;80;images/kfc_shrimp_12.jpg
+37;KFC Popcorn Shrimp;480;22;40;25;images/kfc_popcorn_shrimp.jpg
+38;KFC Bucket for 2 (10 pieces);1400;70;80;70;images/chicken_bucket_2.jpg
+39;KFC Bucket for 4 (20 pieces);2800;140;160;140;images/chicken_bucket_4.jpg
+40;KFC Bucket for 6 (30 pieces);4200;210;240;210;images/chicken_bucket_6.jpg
+41;KFC Sweet Tea (Regular);150;0;38;0;images/kfc_sweet_tea.jpg
+42;KFC Lemonade (Regular);120;0;30;0;images/kfc_lemonade.jpg
+43;KFC Iced Tea (Regular);120;0;30;0;images/kfc_iced_tea.jpg
+44;KFC Soft Drink (Regular);150;0;40;0;images/kfc_soft_drink.jpg
+45;KFC Popcorn Chicken (Large);850;40;85;50;images/popcorn_chicken_large.jpg
+46;KFC Crispy Chicken Sandwich;650;32;55;29;images/crispy_chicken_sandwich.jpg
+47;KFC Classic Chicken Sandwich;650;30;55;29;images/classic_chicken_sandwich.jpg
+48;KFC Spicy Crispy Chicken Sandwich;680;34;55;28;images/spicy_crispy_chicken_sandwich.jpg
+52;KFC Grilled Chicken Breast;290;7;0;50;images/grilled_chicken_breast.jpg
