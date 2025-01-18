@@ -1,36 +1,18 @@
-public class FastFoodItem {
-    private String name;
-    private int calories;
-    private int fat;
-    private int carbs;
-    private int protein;
+
+
+class FastFoodItem  extends FastFood {
 
     public FastFoodItem(String name, int calories, int fat, int carbs, int protein) {
-        this.name = name;
-        this.calories = calories;
-        this.fat = fat;
-        this.carbs = carbs;
-        this.protein = protein;
+    super(name, calories, fat, carbs, protein);
 
     }
-
-    public String getName() {
-        return name;
+    @Override
+    public void displayInfo() {
+        System.out.println("Nazwa: " + name);
+        System.out.println("Kalorie: " + calories);
+        System.out.println("Tłuszcz: " + fat);
+        System.out.println("Węglowodany: " + carbs);
+        System.out.println("Białko: " + protein);
     }
 
-    public int getCalories() {
-        return calories;
-    }
-
-    public int getFat() {
-        return fat;
-    }
-
-    public int getCarbs() {
-        return carbs;
-    }
-
-    public int getProtein() {
-        return protein;
-    }
 }

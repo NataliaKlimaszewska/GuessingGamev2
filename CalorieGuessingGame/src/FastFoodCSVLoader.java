@@ -13,7 +13,7 @@ public class FastFoodCSVLoader {
             boolean isHeader = true;
             while ((line = br.readLine()) != null) {
                 if (isHeader) {
-                    isHeader = false; // Pomijanie nagłówka
+                    isHeader = false;
                     continue;
                 }
                 String[] values = line.split(";");

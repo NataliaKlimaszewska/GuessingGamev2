@@ -1,15 +1,15 @@
 import java.io.IOException;
 import java.util.*;
 
-public class FastFoodGuessingGame {
-    private List<FastFoodItem> menuItems; // Lista wszystkich produktów w menu
-    private int lifePoints = 100; // Początkowa liczba punktów życia
+class FastFoodGuessingGame implements FastFoodGame {
+    private List<FastFoodItem> menuItems;
+    private int lifePoints = 100;
 
     public FastFoodGuessingGame(List<FastFoodItem> menuItems) {
         this.menuItems = menuItems;
     }
 
-    // Metoda do zadania pytania
+    @Override
     public void askQuestion(FastFoodItem item) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Zgadnij wartości dla " + item.getName() + ":");

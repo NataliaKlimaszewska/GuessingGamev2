@@ -14,5 +14,21 @@ protected FastFood (String name, int calories, int fat, int carbs, int protein) 
         this.protein = protein;
     }
 
+    public String getName() {
+    return name;
+    }
+    public int getCalories() {
+    return calories;
+    }
+    public int getFat() {
+        return fat;
+    }
+    public int getCarbs() {
+        return carbs;
+    }
+    public int getProtein() {
+        return protein;
+    }
+
     public abstract void displayInfo();
 }

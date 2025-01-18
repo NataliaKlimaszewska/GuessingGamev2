@@ -1,4 +1,7 @@
+import java.io.IOException;
+
 public interface FastFoodGame {
     void askQuestion(FastFoodItem item);
-        void startGame();
+        void startGame() throws IOException;
+
 }

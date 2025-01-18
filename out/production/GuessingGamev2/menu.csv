@@ -1,0 +1,50 @@
+ID;Nazwa;Kalorie;Tłuszcz;Węglowodany;Białko
+1;Chicken Bucket;1100;65;50;70
+2;Original Recipe Chicken;380;20;20;30
+3;Zinger Burger;560;26;44;27
+4;Hot Wings;500;30;14;26
+5;Mashed Potatoes;120;5;16;3
+6;Coleslaw;150;8;15;2
+7;Popcorn Chicken;400;24;25;18
+8;Chicken Wrap;460;22;38;24
+9;KFC Fries (Small);290;14;37;4
+10;KFC Fries (Large);400;18;56;6
+11;Spicy Chicken Wrap;530;26;45;28
+12;Caesar Salad;320;22;12;20
+13;Garden Salad;150;8;14;5
+14;KFC Rice Bowl;650;30;80;25
+15;Chocolate Milkshake;510;18;79;10
+16;Strawberry Milkshake;490;17;77;9
+17;Vanilla Milkshake;480;16;76;9
+18;KFC Popcorn Chicken Combo;840;40;80;45
+19;Double Down;1380;80;42;55
+20;Famous Bowl;710;30;80;18
+21;KFC Chicken Tenders (3 pieces);600;30;40;30
+22;KFC Chicken Tenders (5 pieces);1000;50;60;50
+23;KFC Gravy;120;8;15;1
+24;KFC Biscuits;150;6;22;3
+25;KFC Mac & Cheese;290;15;25;10
+26;KFC Potato Wedges;320;17;34;4
+27;KFC Twister;570;22;59;28
+28;KFC Chicken Bucket (12 pieces);2200;130;120;140
+29;KFC Hot Wings (5 pieces);600;40;25;30
+30;KFC Chicken Sandwich;600;28;55;29
+31;KFC Chicken Drumsticks (2 pieces);400;18;25;20
+32;KFC Chicken Breast;380;18;25;35
+33;KFC Chicken Thigh;450;25;22;32
+34;KFC Chicken Wing;200;10;10;17
+35;KFC Shrimp (6 pieces);600;20;30;40
+36;KFC Shrimp (12 pieces);1200;40;60;80
+37;KFC Popcorn Shrimp;480;22;40;25
+38;KFC Bucket for 2 (10 pieces);1400;70;80;70
+39;KFC Bucket for 4 (20 pieces);2800;140;160;140
+40;KFC Bucket for 6 (30 pieces);4200;210;240;210
+41;KFC Sweet Tea (Regular);150;0;38;0
+42;KFC Lemonade (Regular);120;0;30;0
+43;KFC Iced Tea (Regular);120;0;30;0
+44;KFC Soft Drink (Regular);150;0;40;0
+45;KFC Popcorn Chicken (Large);850;40;85;50
+46;KFC Crispy Chicken Sandwich;650;32;55;29
+47;KFC Classic Chicken Sandwich;650;30;55;29
+48;KFC Spicy Crispy Chicken Sandwich;680;34;55;28
+52;KFC Grilled Chicken Breast;290;7;0;50
