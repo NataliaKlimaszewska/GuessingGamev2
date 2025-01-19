@@ -28,14 +28,13 @@ public class FastFoodCSVLoader {
                         menuItems.add(new FastFoodItem(name, calories, fat, carbs, protein));
                     } catch (NumberFormatException e) {
                         System.out.println("Invalid number format in line: " + line);
-                        continue;
                     }
                 } else {
                     System.out.println("Invalid data in row: " + line);
                 }
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Error reading the file: " + e.getMessage());
         }
         return menuItems;
     }

@@ -8,11 +8,7 @@ class FastFoodItem  extends FastFood {
     }
     @Override
     public void displayInfo() {
-        System.out.println("Nazwa: " + name);
-        System.out.println("Kalorie: " + calories);
-        System.out.println("Tłuszcz: " + fat);
-        System.out.println("Węglowodany: " + carbs);
-        System.out.println("Białko: " + protein);
+        System.out.println(this.toString());
     }
 
 }

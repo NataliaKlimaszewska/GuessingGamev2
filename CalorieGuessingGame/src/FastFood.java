@@ -31,4 +31,11 @@ protected FastFood (String name, int calories, int fat, int carbs, int protein) 
     }
 
     public abstract void displayInfo();
+
+    @Override
+    public String toString() {
+        return "Nazwa: " + name + ", Kalorie: " + calories + ", Tłuszcz: " + fat +
+                ", Węglowodany: " + carbs + ", Białko: " + protein;
+    }
+
 }
